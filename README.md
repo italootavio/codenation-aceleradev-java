@@ -3,7 +3,7 @@
 ![GitHub](https://img.shields.io/github/license/pricardoti/codenatio-aceleradev-java?color=blue&style=flat-square)
 
 
-O programa é dividido em módulos semanais dentro da nossa plataforma. Os módulos contam com aulas, conteúdos na plataforma, desafios e desenvolvimento do projeto prático ao longo das semanas do programa.
+O programa é dividido em módulos semanais dentro da plataforma. Os módulos contam com aulas, conteúdos, desafios e desenvolvimento do projeto prático ao longo das semanas do programa.
 
 Abaixo estão listados os desafios:
 
@@ -23,8 +23,6 @@ Desafio 13: Calculadora de Salário Líquido <br />
 Desafio 14: Calcular Media, Moda e Mediana <br />
 Desafio 15: Order Service <br />
 Desafio 16: Refatorando Formas de Pagamento <br />
-
-Projeto Prático: Instruções <br />
 
 ---
 
